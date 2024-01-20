@@ -1,0 +1,7 @@
+export let UPDATE="UPDATE"
+export let SET="SET"
+export let DEL="DEL"
+export let SUBMIT="SUBMIT"
+export let LOADING="LOADING"
+export let FETCHED="FETCHED"
+export let ERROR="ERROR"
